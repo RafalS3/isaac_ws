@@ -1,0 +1,3 @@
+[submodule "src/franka_follow"]
+	path = src/franka_follow
+	url = git@github.com:RafalS3/franka-follow-moveit.git
